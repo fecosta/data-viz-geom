@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/data-viz-geom/static/css/main.c9dd21ff.css",
-    "main.js": "/data-viz-geom/static/js/main.73001519.js",
+    "main.js": "/data-viz-geom/static/js/main.97bb6a2c.js",
     "static/js/453.0aa90fb2.chunk.js": "/data-viz-geom/static/js/453.0aa90fb2.chunk.js",
     "index.html": "/data-viz-geom/index.html",
     "main.c9dd21ff.css.map": "/data-viz-geom/static/css/main.c9dd21ff.css.map",
-    "main.73001519.js.map": "/data-viz-geom/static/js/main.73001519.js.map",
+    "main.97bb6a2c.js.map": "/data-viz-geom/static/js/main.97bb6a2c.js.map",
     "453.0aa90fb2.chunk.js.map": "/data-viz-geom/static/js/453.0aa90fb2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c9dd21ff.css",
-    "static/js/main.73001519.js"
+    "static/js/main.97bb6a2c.js"
   ]
 }
