@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/data-viz-geom/static/css/main.c9dd21ff.css",
-    "main.js": "/data-viz-geom/static/js/main.a72ccab9.js",
-    "static/js/453.0aa90fb2.chunk.js": "/data-viz-geom/static/js/453.0aa90fb2.chunk.js",
-    "index.html": "/data-viz-geom/index.html",
-    "main.c9dd21ff.css.map": "/data-viz-geom/static/css/main.c9dd21ff.css.map",
-    "main.a72ccab9.js.map": "/data-viz-geom/static/js/main.a72ccab9.js.map",
-    "453.0aa90fb2.chunk.js.map": "/data-viz-geom/static/js/453.0aa90fb2.chunk.js.map"
+    "main.css": "/static/css/main.4b911ccf.css",
+    "main.js": "/static/js/main.01613c48.js",
+    "static/js/453.0aa90fb2.chunk.js": "/static/js/453.0aa90fb2.chunk.js",
+    "index.html": "/index.html",
+    "main.4b911ccf.css.map": "/static/css/main.4b911ccf.css.map",
+    "main.01613c48.js.map": "/static/js/main.01613c48.js.map",
+    "453.0aa90fb2.chunk.js.map": "/static/js/453.0aa90fb2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9dd21ff.css",
-    "static/js/main.a72ccab9.js"
+    "static/css/main.4b911ccf.css",
+    "static/js/main.01613c48.js"
   ]
 }
